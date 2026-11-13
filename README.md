@@ -1,2 +1,3 @@
 # last exercies
 
+SQL DATABASE LAST ASSIGNMENT 
