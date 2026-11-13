@@ -1,3 +1,9 @@
 # last exercies
 
 SQL DATABASE LAST ASSIGNMENT 
+
+--'202511449'
+,'202512523'
+,'202513073'
+,'202511613'
+( 202511198 - Asim Mohamed ) 
